@@ -28,10 +28,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmhs&langs_count=5)](https://github.com/ashikmhs/github-readme-stats)
-
-&nbsp;
 [![Ashikmhs's github stats](https://github-readme-stats.vercel.app/api?username=ashikmhs)](https://github.com/ashikmhs/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmhs&langs_count=5)](https://github.com/ashikmhs/github-readme-stats)
 
 
 [website]: #
