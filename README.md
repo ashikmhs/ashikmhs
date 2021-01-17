@@ -30,7 +30,8 @@
 
 [![Ashikmhs's github stats](https://github-readme-stats.vercel.app/api?username=ashikmhs)](https://github.com/ashikmhs/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmhs&langs_count=5)](https://github.com/ashikmhs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmhs&layout=compact)](https://github.com/ashikmhs/github-readme-stats)
+
 
 
 [website]: #
