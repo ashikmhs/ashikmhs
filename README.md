@@ -30,8 +30,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ashikmhs&count_private=true&show_icons=true)
 &nbsp;
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashikmhs&show_icons=true" />  
-<br>
+[![Ashikmhs's github stats](https://github-readme-stats.vercel.app/api?username=ashikmhs)](https://github.com/ashikmhs/github-readme-stats)
+
 
 [website]: #
 [facebook]: https://www.facebook.com/ashikmhs/
