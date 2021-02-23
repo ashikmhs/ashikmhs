@@ -31,9 +31,13 @@
  
  ### Connect with me:
  
-<a src="https://www.linkedin.com/in/ashikmhs/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+[<img align="left" alt="Md. Al-Amin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Md. Al-Amin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Md. Al-Amin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<a src="https://www.facebook.com/ashikmhs/"><img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
  
 
+[website]: https://sites.google.com/diu.edu.bd/ashikmahmud/home
+[facebook]: https://www.facebook.com/ashikmhs/
+[linkedin]: https://www.linkedin.com/in/ashikmhs/
 
